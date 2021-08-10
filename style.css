@@ -1,0 +1,35 @@
+body{
+    margin: 0% 2rem;
+}
+.navigation{
+    background-color: blue;
+    border-bottom-left-radius: 1rem;
+    padding-bottom: 1rem;
+}
+.nav-brand{
+    padding-top:1.5rem ;
+    padding-left:1rem;
+    padding-bottom: -0.5rem;
+}
+.nav-list{
+    text-align: right;
+    margin-top: 0%;
+    padding-top: -2rem;
+    margin-top: -1rem;
+}
+.list-non-bullet {
+    list-style-type:none ;
+    display: inline;
+    padding-right: 2rem;
+    
+}
+.link{
+    text-decoration: none;
+    text-align: right;
+    color: black;
+    border: 1.5rem;
+}
+/* .nav-list .list-non-bullet .link{
+    padding-top: 3rem;
+    
+} */

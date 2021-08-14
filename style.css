@@ -27,6 +27,7 @@ body{
     font-family: 'Tangerine', cursive;
     font-size: 2.2rem;
     font-weight:600;
+    max-width: 2px;
 }
 .nav-list{
     text-align: center;
@@ -103,7 +104,13 @@ body{
     padding-top: 1rem;
     text-align: center;
     background-color: #4B5563;
-    border-top-left-radius:21rem ;
+    border-top-left-radius:12rem ;
+}
+.footer-heading{
+    font-size: 2rem;
+    
+    color:#F3F4F6;
+    font-family: 'Montserrat', sans-serif;
 }
 .footer h2{
     font-size: 2.5rem;

@@ -85,7 +85,12 @@ body{
     font-family: 'Noto Serif TC', serif;
 }
 .para{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    line-height: rem;
+    /* padding-top: 1rem;
+    padding-bottom: 1rem; */
+    /* font-family: 'Noto Serif TC', serif; */
+    /* font-family: 'Open Sans', sans-serif; */
 
 }
 .off-white{
@@ -121,3 +126,51 @@ body{
     padding-right: 2rem;
     text-align: center;
 } */
+/* -------------------------P-R-O-J-E-C-T P-A-G-E--------------------- */
+
+.project-hero{
+    text-align: center;
+}
+.project-caption{
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+.project-hero .project-caption .project-caption-span{
+    color:#9B63FF;
+    
+}
+
+.project-list{
+    list-style-type: none;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+.project-center{
+    padding-top: 0.5rem;
+    margin: auto;
+    padding-left: 2rem;
+    max-width: 550px;
+    margin-bottom: 5rem;
+}
+.links{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+.link-primary {
+    background-color: #9B63FF;
+    border-radius: 0.5rem;
+    color: blanchedalmond;
+    display: block;
+    max-width: 100px;
+    margin-bottom: 1rem;
+    /* margin: 1rem 1rem 1rem 0rem; */
+}
+.link-secondary{
+   background-color: white;
+   color:#9B63FF ;
+   border-radius: 0.5rem;
+   border: 1px solid #9B63FF;
+   max-width: 103px;
+   margin-bottom: 1rem;
+}

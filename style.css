@@ -30,16 +30,16 @@ body{
     max-width: 12px;
 }
 .nav-list{
-    text-align: right;
+    margin: auto;
+    max-width: 300px;
     /* padding-top: -1rem; */
     margin-top: -2rem;
-    margin-right: 6rem;
     
 }
 .list-non-bullet {
     list-style-type:none ;
     display: inline;
-    padding-right: 2rem;
+    padding-right: 1rem;
     
 }
 .link{

@@ -107,7 +107,7 @@ body{
     border-top-left-radius:12rem ;
 }
 .footer-heading{
-    font-size: 2rem;
+    font-size: 3vw;
     
     color:#F3F4F6;
     font-family: 'Montserrat', sans-serif;
@@ -121,7 +121,7 @@ body{
      
 }
 .socialmedia-img{
-    max-width: 22em;
+    max-width: 22vw;
 }
 
 /* .logo-list{

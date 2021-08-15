@@ -100,19 +100,19 @@ body{
 
 /* ---Footer Part---- */
 .footer{
-    padding-top: 1rem;
+    padding-top: 1vw;
     text-align: center;
     background-color: #9B63FF;
-    border-top-left-radius:12rem ;
+    border-top-left-radius:12vw ;
 }
 .footer-heading{
-    font-size: 3vw;
+    font-size: 2vw;
     
     color:#F3F4F6;
     font-family: 'Montserrat', sans-serif;
 }
 .footer h2{
-    font-size: 2.5rem;
+   
     color:#F3F4F6;
 }
 .footer-container{
@@ -120,7 +120,7 @@ body{
      
 }
 .socialmedia-img{
-    max-width: 22vw;
+    max-width: 17rem;
 }
 
 /* .logo-list{
